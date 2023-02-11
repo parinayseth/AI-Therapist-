@@ -1,0 +1,8 @@
+Instructions - 
+1. Open the file name - "live.ipynb" in the jupyter notebook
+2. Run all the functions step by step (possible order change)
+3. Functions Used mainly -
+	def calculate_angle(a,b,c) - To calculate the angle between different joints points and poses
+	with mp_pose.Pose - Used to declare the mediapipe function and estimating different poses from the given video 
+	output_video.release - used to convert the required output generated into the video format stored in the same directory 
+
